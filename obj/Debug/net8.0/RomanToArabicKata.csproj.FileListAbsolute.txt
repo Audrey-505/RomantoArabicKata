@@ -1,0 +1,14 @@
+/Users/audreyalcantara/Documents/Katas/RomanToArabicKata/RomanToArabicKata/bin/Debug/net8.0/RomanToArabicKata
+/Users/audreyalcantara/Documents/Katas/RomanToArabicKata/RomanToArabicKata/bin/Debug/net8.0/RomanToArabicKata.deps.json
+/Users/audreyalcantara/Documents/Katas/RomanToArabicKata/RomanToArabicKata/bin/Debug/net8.0/RomanToArabicKata.runtimeconfig.json
+/Users/audreyalcantara/Documents/Katas/RomanToArabicKata/RomanToArabicKata/bin/Debug/net8.0/RomanToArabicKata.dll
+/Users/audreyalcantara/Documents/Katas/RomanToArabicKata/RomanToArabicKata/bin/Debug/net8.0/RomanToArabicKata.pdb
+/Users/audreyalcantara/Documents/Katas/RomanToArabicKata/RomanToArabicKata/obj/Debug/net8.0/RomanToArabicKata.GeneratedMSBuildEditorConfig.editorconfig
+/Users/audreyalcantara/Documents/Katas/RomanToArabicKata/RomanToArabicKata/obj/Debug/net8.0/RomanToArabicKata.AssemblyInfoInputs.cache
+/Users/audreyalcantara/Documents/Katas/RomanToArabicKata/RomanToArabicKata/obj/Debug/net8.0/RomanToArabicKata.AssemblyInfo.cs
+/Users/audreyalcantara/Documents/Katas/RomanToArabicKata/RomanToArabicKata/obj/Debug/net8.0/RomanToArabicKata.csproj.CoreCompileInputs.cache
+/Users/audreyalcantara/Documents/Katas/RomanToArabicKata/RomanToArabicKata/obj/Debug/net8.0/RomanToArabicKata.dll
+/Users/audreyalcantara/Documents/Katas/RomanToArabicKata/RomanToArabicKata/obj/Debug/net8.0/refint/RomanToArabicKata.dll
+/Users/audreyalcantara/Documents/Katas/RomanToArabicKata/RomanToArabicKata/obj/Debug/net8.0/RomanToArabicKata.pdb
+/Users/audreyalcantara/Documents/Katas/RomanToArabicKata/RomanToArabicKata/obj/Debug/net8.0/RomanToArabicKata.genruntimeconfig.cache
+/Users/audreyalcantara/Documents/Katas/RomanToArabicKata/RomanToArabicKata/obj/Debug/net8.0/ref/RomanToArabicKata.dll
